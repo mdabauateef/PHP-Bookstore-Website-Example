@@ -1,3 +1,6 @@
+CREATE DATABASE BookStore;
+USE BookStore;
+
 CREATE TABLE Book(
     BookID varchar(50),
 	BookTitle varchar(200),
